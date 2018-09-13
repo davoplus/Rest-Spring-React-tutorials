@@ -1,4 +1,7 @@
-=========
+
+## Based on project 
+https://github.com/eugenp/tutorials/tree/master/spring-security-react
+
 
 ## Spring Security React Example Project
 
@@ -13,5 +16,11 @@ The "Learn Spring Security" Classes: http://github.learnspringsecurity.com
 ### Build the Project
 
 ```
-mvn clean install
+mvnw clean install
+```
+
+### Run the Project
+
+```
+mvnw jetty:run
 ```

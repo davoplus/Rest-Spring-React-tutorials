@@ -4,15 +4,19 @@
     <artifactId>spring-security-react</artifactId>
     <version>0.1-SNAPSHOT</version>
 
+    <groupId>com.baeldung</groupId>
     <name>spring-security-react</name>
     <packaging>war</packaging>
 
+<!--
     <parent>
 		<groupId>com.baeldung</groupId>
 		<artifactId>parent-spring-4</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 		<relativePath>../parent-spring-4</relativePath>
 	</parent>
+
+    -->
 
     <dependencies>
 
